@@ -1,5 +1,6 @@
 import random
 from copy import copy
+
 import pygame
 
 board_size = 5
